@@ -150,7 +150,8 @@ p {
     background-repeat: no-repeat;
     background-position: center;
     background-size: 1600px, cover;
-    width: 1600px;
+    max-width: 1600px;
+    height: 600px;
     margin-left: auto;
     margin-right: auto;
     
