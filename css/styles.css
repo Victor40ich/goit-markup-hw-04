@@ -526,3 +526,15 @@ fill: var(--first-title-color);
 .social-footer-item:hover {
     background-color: #2196F3;
 }
+.footer {
+    display: flex;
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+.footer>.container {
+    display: flex;
+    align-items: baseline;
+}
+.footer-adress {
+    margin-right: 70px;
+}
