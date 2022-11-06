@@ -124,10 +124,10 @@ p {
 .header-link .icon-envelope:hover {
     fill: #2196F3;
 }
-.header-container-portfolio {
-    background: #FFFFFF;
+.header {
     border-bottom: 1px solid #EEEEEE;
 }
+
 
 /* Hero styles */
 
